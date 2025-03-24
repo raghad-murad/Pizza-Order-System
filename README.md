@@ -86,7 +86,7 @@ The project is divided into two phases:
 ## 🖼 Screenshots
 
 ### Welcome Screen
-![Welcome Screen](Screenshots\welcome.png)
+![Welcome Screen](Pizza-Order-System/Screenshots/welcome.png)
 
 ### Order Form
 ![Order Form](Screenshots\order_form.png)
