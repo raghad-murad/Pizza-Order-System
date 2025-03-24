@@ -7,7 +7,6 @@ A JavaFX application that allows users to place pizza orders, calculate prices b
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [How to Run](#how-to-run)
-- [Screenshots](#screenshots)
 - [Code Structure](#code-structure)
 
 ## 🌟 Overview
@@ -82,17 +81,6 @@ The project is divided into two phases:
 ### Notes
 - Replace `"path/to/javafx-sdk-21.0.6/lib"` with the actual path to your JavaFX SDK directory.
 - Ensure that the JavaFX modules (`javafx.controls`, `javafx.fxml`) are correctly added.
-
-## 🖼 Screenshots
-
-### Welcome Screen
-![Welcome Screen](Pizza-Order-System/Screenshots/welcome.png)
-
-### Order Form
-![Order Form](Screenshots\order_form.png)
-
-### Print Orders
-![Print Orders](Screenshots\print_orders.png)
 
 ## 🧩 Code Structure
 
